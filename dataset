@@ -1,0 +1,10 @@
+
+You DT  O
+can VB  O
+make    VB  O
+a   DT  O
+claim   NN  B-PER
+on  PRP O
+your    PR  O
+insurance   NN  B-PER
+policy  NN  B-PER
